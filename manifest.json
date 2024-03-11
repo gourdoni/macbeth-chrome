@@ -1,0 +1,33 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Macbeth",
+    "theme": {
+        "colors": {
+            "background_tab": [34, 35, 42],
+            "background_tab_inactive": [27, 28, 34],
+            "background_tab_incognito": [34, 35, 42],
+            "background_tab_incognito_inactive": [27, 28, 34],
+            "bookmark_text": [234, 223, 215],
+            "button_background": [34, 35, 42],
+            "frame": [27, 28, 34],
+            "frame_inactive": [27, 28, 34],
+            "frame_incognito": [27, 28, 34],
+            "frame_incognito_inactive": [27, 28, 34],
+            "ntp_background": [27, 28, 34],
+            "ntp_header": [34, 35, 42],
+            "ntp_link": [200, 224, 209],
+            "ntp_text": [234, 223, 215],
+            "omnibox_background": [27, 28, 34],
+            "omnibox_text": [246, 213, 231],
+            "tab_background_text": [196, 170, 151],
+            "tab_background_text_inactive": [196, 170, 151],
+            "tab_background_text_incognito": [196, 170, 151],
+            "tab_background_text_incognito_inactive": [196, 170, 151],
+            "tab_text": [201, 232, 238],
+            "toolbar": [34, 35, 42],
+            "toolbar_button_icon": [201, 232, 238],
+            "toolbar_text": [196, 170, 151]
+        }
+    }
+}
